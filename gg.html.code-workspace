@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "gg.html"
+		},
+		{
+			"path": "../Desktop/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gg.html"
+	}
+}

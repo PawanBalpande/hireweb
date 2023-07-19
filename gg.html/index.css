@@ -1,0 +1,708 @@
+.desktop-1-child {
+  position: relative;
+  top: 65px;
+  left: 0;
+  border-radius: 0 50px 100px 0;
+  width: 2100px;
+  height: 650px;
+  object-fit: contain;
+}
+  .hire-pro {
+    font-family: Lalezar;
+    position: absolute;
+    top: 3px;
+    left: 32px;
+    font-size: 60px;
+    color: rgba(20, 47, 72, 0.86);
+  }
+  .elevate-your-hiring {
+    position: absolute;
+    top: 234px;
+    left: 83px;
+    font-size: 48px;
+    display: inline-block;
+    font-family: judson;
+    color: rgba(0, 111, 173, 0.92);
+    width: 752px;
+  }
+  .hire-candidates {
+    font-family: inter;
+    position: absolute;
+    font-size: 130%;
+    top: 210px;
+    left: 83px;
+    text-transform: uppercase;
+    font-weight: 200;
+  }
+  .indias-no1-hiring {
+    margin: 0;
+  }
+  .indias-no1-hiring-container {
+    position: absolute;
+    font-size: 140%;
+    top: 306px;
+    left: 83px;
+    font-family: inter;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    width: 641px;
+    height: 23px;
+  }
+  .desktop-1-item {
+    position: absolute;
+    background-color: #0a22a1;
+    
+    top: calc(50% - 1678px);
+    left: 92px;
+    border-radius: 20px;
+    width: 267px;
+    height: 70px;
+  }
+  .about-us,
+  .contact-us,
+  .home,
+  .job-search {
+    color: rgba(0, 111, 173, 0.92);
+    position: absolute;
+    font-family: inter;
+    font-size: 19px;
+    top: 0;
+    left: 0;
+    font-weight: 600;
+  }
+  .about-us,
+  .contact-us,
+  .job-search {
+    left: 107px;
+  }
+  .contact-us,
+  .job-search {
+    left: 245px;
+  }
+  .contact-us {
+    left: 397px;
+  }
+  .home-parent {
+    position: absolute;
+    top: 26px;
+    left: 582px;
+    width: 499px;
+    height: 18px;
+    color: var(--color-steelblue-100);
+  }
+  .chevron-226168-1-icon {
+    position: absolute;
+    top: 20px;
+    left: 930px;
+    width: 15px;
+    height: 26px;
+    object-fit: cover;
+  }
+  .hire-now {
+    background-color: #275DAF;
+    cursor: pointer;
+    border: 10px,50px,10px,50px;
+    padding: 10px , 50px , 10px , 50px;
+    border-radius: 10px;
+    position: absolute;
+    top: calc(50% - 1661px);
+    left: calc(50% - 571px);
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: inter;
+    color: white;
+    text-align: left;
+    display: inline-block;
+  }
+  .hire-now a{
+    text-decoration: none;
+    color: white;
+  }
+  .hire-pro-statistic {
+    position: absolute;
+    font-family: inter;
+    font-size: 300%;
+    align-items: center;
+    top: 38px;
+    left: 490px;
+    height: 116px;
+    width: 550px;
+    text-transform: capitalize;
+    color: #142F48;
+  }
+  .user-6392617-1-icon {
+   position: absolute;
+    top: 30px;
+    left: 77px;
+    width: 60px;
+    height: 79.5px;
+    object-fit: cover;
+  }
+  .hired-till-now,
+  .lakh-candidates {
+    font-family: inter;
+    position: absolute;
+    top: 140px;
+    left: 24px;
+    text-transform: capitalize;
+  }
+  .hired-till-now {
+    
+    padding: 30;
+    top: 168px;
+    left: 53px;
+    color: var(--color-black);
+  }
+  .user-6392617-1-parent {
+    position: absolute;
+    top: 184px;
+    left: 162px;
+    border-radius: 10px;
+background: rgba(0, 143, 223, 0.12);
+    width: 215px;
+    height: 219px;
+    overflow: hidden;
+  }
+  .user-6392617-1-icon1 {
+    position: absolute;
+    top: 39px;
+    left: 62px;
+    width: 76.29px;
+    height: 79.5px;
+    object-fit: cover;
+  }
+  .done,
+  .lakh-call {
+    font-family: inter;
+    position: absolute;
+    text-transform: capitalize;
+  }
+  .lakh-call {
+    top: 140px;
+    left: 11px;
+    display: inline-block;
+    width: 193px;
+    height: 16px;
+  }
+  .done {
+    top: 169px;
+    left: 87px;
+    color: var(--color-black);
+  }
+  .user-6392617-1-group {
+    position: absolute;
+    background-color: #275DAF;
+    top: 184px;
+    left: 620px;
+    border-radius: 10px;
+background: rgba(0, 143, 223, 0.12);
+    width: 215px;
+    height: 219px;
+    overflow: hidden;
+  }
+  .user-6392617-1-icon2 {
+    position: absolute;
+    top: 30px;
+    left: 73px;
+    width: 70.47px;
+    height: 79.5px;
+    object-fit: cover;
+  }
+  .b,
+  .cities-in-india {
+    position: absolute;
+    font-family: inter;
+    top: 139px;
+    left: 84px;
+    text-transform: capitalize;
+  }
+  .cities-in-india {
+    top: 167px;
+    left: 55px;
+  }
+  .user-6392617-1-container {
+    position: absolute;
+    top: 184px;
+    left: 1078px;
+    border-radius: 10px;
+background: rgba(0, 143, 223, 0.12);
+    width: 215px;
+    height: 219px;
+    overflow: hidden;
+    color: var(--color-black);
+  }
+  .bases-on-candidates {
+    font-family: inter;
+    position: absolute;
+    top: 99px;
+    left: 470px;
+    font-size: 130%;
+    text-transform: capitalize;
+    font-weight: 300;
+    color: var(--color-black);
+    display: inline-block;
+    width: 445px;
+    height: 14px;
+  }
+  .sign-up,
+  .stats {
+    position: absolute;
+  }
+  .stats {
+    top: 766px;
+    left: 0;
+    border-radius: 40px;
+    width: 1440px;
+    height: 485px;
+    overflow: hidden;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-100);
+  }
+  .sign-up {
+    top: 10px;
+    left: 31px;
+    font-size: 10px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family:inter;
+    color: white;
+    text-align: middle;
+    
+  }
+
+  .sign-up a{
+    text-decoration: none;
+    color: white;
+  }
+
+  .sign-up-wrapper {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    
+    position: absolute;
+    top: 16px;
+    left: 1164px;
+    border-radius: 10px;
+    width: 112px;
+    height: 37px;
+    overflow: hidden;
+    border-radius: 10px;
+background: #275DAF;
+  }
+  .log-in {
+    position: absolute;
+    top: 9px;
+    left: 34px;
+    font-size: 10px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family:inter;
+    color: white;
+    text-align: left;
+  }
+  .log-in a{
+    text-decoration: none;
+    color: white;
+  }
+  .log-in-wrapper {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    
+    position: absolute;
+    top: 16px;
+    left: 1296px;
+    border-radius: 10px;
+    width: 112px;
+    height: 37px;
+    overflow: hidden;
+    border-radius: 10px;
+background: #275DAF;
+  }
+  .why-to-choose {
+    position: absolute;
+    top: 39px;
+    left: 450px;
+    font-size: 315%;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 679px;
+    height: 76px;
+  }
+  .access-to-a {
+    font-family: var(--font-jaldi);
+  }
+  .blank-line2 {
+    margin: 0;
+    font-weight: 300;
+    font-family: var(--font-inter);
+  }
+  .access-to-a-container {
+    position: absolute;
+    top: 150px;
+    left: 187px;
+    text-transform: capitalize;
+    color: var(--color-black);
+    display: inline-block;
+    font-size: 120%;
+    width: 913px;
+    height: 398px;
+    
+    
+  }
+  .young-business-woman-checking-icon {
+    position: absolute;
+    top: 130px;
+    left: 1121px;
+    width: 307px;
+    height: 272px;
+    object-fit: cover;
+  }
+  .right-4238516-1-icon,
+  .right-4238516-2-icon,
+  .right-4238516-3-icon {
+    position: absolute;
+    top: 180px;
+    left: 131px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
+  .right-4238516-2-icon,
+  .right-4238516-3-icon {
+    top: 286px;
+  }
+  .right-4238516-3-icon {
+    top: 410px;
+  }
+  .overall-people-choose {
+    color: #1E1E1E;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+    position: absolute;
+    font-size: 150%;
+    top: 600px;
+    left: 121px;
+    text-transform: capitalize;
+    text-align: center;
+    display: inline-block;
+    width: 1198px;
+    height: 72px;
+  }
+  .why-to-choose-hire-pro-parent {
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 2586px;
+    left: 0;
+    
+    width: 1440px;
+    height: 735px;
+    overflow: hidden;
+    
+  }
+  .our-top-recruiters {
+    color: #142F48;;
+    position: absolute;
+    font-size: 310%;
+    top: 31px;
+    left: 450px;
+    text-transform: capitalize;
+  }
+  .download-1-1-icon,
+  .download-2-1-icon,
+  .download-3-1-icon,
+  .download-4-1-icon {
+    position: absolute;
+    top: 201px;
+    left: 152px;
+    width: 224px;
+    height: 62px;
+    object-fit: cover;
+  }
+  .download-1-1-icon,
+  .download-3-1-icon,
+  .download-4-1-icon {
+    top: 191px;
+    left: 611px;
+  }
+  .download-3-1-icon,
+  .download-4-1-icon {
+    top: 355px;
+    left: 152px;
+    height: 60px;
+  }
+  .download-4-1-icon {
+    top: 171px;
+    left: 1070px;
+    width: 186px;
+    height: 82px;
+  }
+  .download-5-1-icon,
+  .download-6-1-icon {
+    position: absolute;
+    top: 355px;
+    left: 611px;
+    width: 224px;
+    height: 60px;
+    object-fit: cover;
+  }
+  .download-5-1-icon {
+    top: 345px;
+    left: 1070px;
+    height: 70px;
+  }
+  .our-top-recruiters-parent {
+    background: rgb(255, 255, 255);
+    position: absolute;
+    top: 1313px;
+    left: -1px;
+    
+    width: 1440px;
+    height: 505px;
+    overflow: hidden;
+    
+  }
+  .icon {
+    position: absolute;
+    top: 125px;
+    left: 59px;
+    border-radius: 36px;
+    width: 468px;
+    height: 564px;
+    object-fit: cover;
+  }
+  .get-started-with,
+  .post-a-job {
+    position: absolute;
+    font-size: 200%;
+    top: 180px;
+    left: 600px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    width: 446px;
+    height: 40px;
+  }
+  .post-a-job {
+    top: 242px;
+    font-size: 300%;
+    color: #0a22a1;
+    width: 822px;
+    height: 82px;
+  }
+  .highly-qualified-profiles,
+  .one-click-contact,
+  .simplified-job-posting {
+    position: absolute;
+    font-size: 150%;
+    top: 344px;
+    left: 650px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: rgba(9, 36, 61, 0.86);
+  }
+  .one-click-contact,
+  .simplified-job-posting {
+    top: 415px;
+    color: rgba(4, 27, 43, 0.86);
+  }
+  .one-click-contact {
+    top: 484px;
+    color: rgba(6, 25, 39, 0.86);
+    display: inline-block;
+    width: 331px;
+    height: 36px;
+  }
+  .check-3472620-1-icon,
+  .check-3472620-2-icon,
+  .check-3472620-3-icon {
+    position: absolute;
+    top: 339px;
+    left: 600px;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  .check-3472620-2-icon,
+  .check-3472620-3-icon {
+    top: 410px;
+  }
+  .check-3472620-3-icon {
+    top: 480px;
+  }
+  
+  .start-now {
+    position: absolute;
+    top: 588px;
+    left: 675px;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: white;
+    width: 222px;
+    height: 67px;
+    background-color:rgba(3, 56, 245, 0.70); 
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.start-now a{
+  text-decoration: none;
+  color: white;
+}
+  .parent {
+    position: absolute;
+    top: 1770px;
+    left: -6px;
+    width: 1440px;
+    height: 822px;
+    overflow: hidden;
+    font-size: var(--font-size-6xl);
+    color: rgba(20, 53, 225, 0.58);
+  }
+  .what-others-says {
+    position: absolute;
+    top: 22px;
+    left: 430px;
+    font-size: 315%;
+    text-transform: capitalize;
+    color: #142F48;
+  }
+  .ankit-desaizomato-hr-using-container,
+  .pallavi-awale-flipkart-container,
+  .sandip-singhamazon-hr-container {
+    position: absolute;
+    font-family: jaldi;
+    font-size: 18px;
+    top: 125px;
+    left: 175px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 1183px;
+  }
+  .ankit-desaizomato-hr-using-container,
+  .pallavi-awale-flipkart-container {
+    top: 239px;
+    width: 1183px;
+    height: 85px;
+  }
+  .pallavi-awale-flipkart-container {
+    top: 338px;
+    width: 1183px;
+    height: 86px;
+  }
+  .what-others-says-about-us-parent {
+    position: absolute;
+    top: 3410px;
+    left: 0;
+    width: 1440px;
+    height: 454px;
+    overflow: hidden;
+    font-family: var(--font-jaldi);
+  }
+  .frame-item {
+    width: 1440px;
+height: 376px;
+flex-shrink: 0;
+    position: absolute;
+    top: 1.99px;
+    left: 705px;
+    width: 5px;
+    height: 374.01px;
+  }
+  .about-us-blog-container,
+  .company {
+    color:  rgba(241, 241, 246, 0.58);
+    position: absolute;
+    width:157px ;
+    height:36px;
+    font-size: xx-large;
+    top: 51px;
+    left: 180px;
+    text-transform: uppercase;
+  }
+  .about-us-blog-container {
+    color: #FFF;
+    top: 122px;
+    left: 190px;
+    font-size: var(--font-size-xl);
+    display: inline-block;
+    width: 201px;
+    height: 27px;
+  }
+  .connect-to-social {
+    font-size: xx-large;
+    color:rgba(241, 241, 246, 0.58);
+    position: absolute;
+    top: 49px;
+    left: 806px;
+    text-transform: uppercase;
+  }
+  .instagram-2111463-1-icon {
+    position: absolute;
+    top: 122px;
+    left: 806px;
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+  }
+  .facebook-733547-1-icon,
+  .linkedin-3536505-1-icon,
+  .twitter-3256013-1-icon {
+    position: absolute;
+    top: 122px;
+    left: 866px;
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+  }
+  .linkedin-3536505-1-icon,
+  .twitter-3256013-1-icon {
+    left: 926px;
+  }
+  .linkedin-3536505-1-icon {
+    left: 986px;
+  }
+  .line-parent {
+    position: absolute;
+    top: 3922px;
+    left: 0;
+    background-color: #121822;
+    width: 1540px;
+    height: 376px;
+    overflow: hidden;
+    font-size: var(--font-size-11xl);
+    color: var(--color-ghostwhite);
+  }
+  .desktop-1 {
+    position: relative;
+    background-color: #fafafa;
+    width: 100%;
+    height: 4298px;
+    overflow: hidden;
+    text-align: left;
+  }
+  .indias-no2-hiring {
+    margin: 2;
+  }
+  .indias-no2-hiring-container {
+    position: absolute;
+    font-family: inter;
+    top: 306px;
+    left: 83px;
+    font-size: var(--font-size-6xl);
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    width: 641px;
+    height: 23px;
+  }

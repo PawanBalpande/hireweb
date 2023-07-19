@@ -1,0 +1,218 @@
+.blue-brushstrokes-background-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 1024px;
+    object-fit: cover;
+  }
+  .login {
+    font-family: inter;
+    color: #000;
+    position: absolute;
+    top: 26px;
+    left: 30px;
+    font-size: 40px;
+    text-transform: capitalize;
+  }
+  .doesnt-have-an {
+    color: #000;
+font-family: Inter;
+    font-weight: 200;
+  }
+  .b {
+    font-family: inter;
+  }
+  .span {
+    text-transform: capitalize;
+    color: cornflowerblue;
+  }
+  .sign-up1 {
+    text-decoration: underline;
+    font-weight: 500;
+  }
+  .doesnt-have-an-container {
+    position: absolute;
+    top: 92px;
+    left: 30px;
+    display: inline-block;
+    width: 385px;
+    height: 14px;
+  }
+  .email-address,
+  .password {
+    position: absolute;
+    top: 150px;
+    left: 30px;
+    text-transform: capitalize;
+  }
+  .password {
+    top: 290px;
+  }
+  .frame-child,
+  .frame-item {
+    border: 0;
+    background-color: white;
+    position: absolute;
+    top: 193px;
+    left: 24px;
+    border-radius: 10px;
+    width: 419px;
+    height: 55px;
+  }
+  .frame-item {
+    top: 327px;
+  }
+  .forgot-password {
+    position: absolute;
+    top: 290px;
+    left: 262px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: cornflowerblue;
+  }
+  .frame-inner {
+    position: absolute;
+    background-color: white;
+    color: white;
+    top: 401px;
+    left: 30px;
+    border-radius: 2px;
+    width: 18px;
+    height: 15px;
+  }
+  .remember-me {
+    position: absolute;
+    top: 397px;
+    left: 64px;
+    font-weight: 200;
+  }
+  .login1,
+  .rectangle-button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    position: absolute;
+  }
+  .rectangle-button {
+    border-radius: 10px;
+background: #007CFF;
+    top: 454px;
+    left: 24px;
+    border-radius: 10px;
+    width: 419px;
+    height: 55px;
+  }
+  .login1 {
+    background-color: transparent;
+    top: 469px;
+    left: 192px;
+    font-size: var(--font-size-xl);
+    font-weight: 800;
+    font-family: inter;
+    color: white;
+    text-align: left;
+    display: inline-block;
+  }
+  .login-parent {
+    position: absolute;
+    top: 53px;
+    left: 756px;
+    border-radius:10px;
+    background-color: #dfecff;
+    border: 1px solid var(--color-steelblue-100);
+    box-sizing: border-box;
+    width: 471px;
+    height: 536px;
+    overflow: hidden;
+  }
+  .icon {
+    position: absolute;
+    top: 72px;
+    left: 75px;
+    width: 625px;
+    height: 490px;
+    object-fit: cover;
+  }
+  .login-with {
+    position: absolute;
+    top: 640px;
+    left: 756px;
+    font-weight: 200;
+  }
+  .facebook-733547-1,
+  .google-2504914-1,
+  .linkedin-3536505-1 {
+    text-decoration: none;
+    position: absolute;
+    top: 638px;
+    left: 873px;
+    width: 30px;
+    height: 30px;
+    background-image: url(linkedin_3536505.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .facebook-733547-1,
+  .google-2504914-1 {
+    left: 923px;
+    background-image: url(google_2504914.png);
+  }
+  .facebook-733547-1 {
+    left: 973px;
+    background-image: url(facebook-733547-1@2x.png);
+  }
+  .line-icon {
+    border-top: 1px solid #bababa;
+    top: 617.04px;
+    left: 725px;
+    width: 255px;
+    height: 1.96px;
+  }
+  .line-div,
+  .line-icon,
+  .or {
+    position: absolute;
+  }
+  .line-div {
+    top: 618.5px;
+    left: 1026.5px;
+    border-top: 1px solid #bababa;
+    box-sizing: border-box;
+    width: 240px;
+    height: 1px;
+  }
+  .or {
+    top: 606px;
+    left: 993px;
+    color: #d1d1d1;
+  }
+  .desktop-1,
+  .frame-parent {
+    background-color: white;
+    overflow: hidden;
+  }
+  .frame-parent {
+    text-decoration: none;
+    position: absolute;
+    top: 71px;
+    left: 67px;
+    border-radius:10px;
+    border: 4px solid royalblue;
+    box-sizing: border-box;
+    width: 1305px;
+    height: 699px;
+    color: inherit;
+  }
+  .desktop-1 {
+    position: relative;
+    width: 100%;
+    height: 811px;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color:black;
+    font-family:inter;
+  }
+  
